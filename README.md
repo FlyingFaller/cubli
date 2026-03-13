@@ -35,10 +35,12 @@ This project uses `uv`. It is recommended that you clone the repository and use 
 
 ## Example Outputs
 
+<img width="1390" height="1181" alt="cubli_plot" src="https://github.com/user-attachments/assets/6b13a933-576f-4bc3-be58-627ac6177c13" />
 
+https://github.com/user-attachments/assets/bc39a02d-eb92-41dc-a451-5cdfab2b0c5f
 
-## References
+## Reference
 
-* F. Bobrow, B. A. Angelico, F. P. R. Martins, and P. S. P. da Silva, *"The Cubli: Modeling and Nonlinear Attitude Control Utilizing Quaternions,"* IEEE Access, vol. 9, 2021.
+F. Bobrow, B. A. Angelico, F. P. R. Martins, and P. S. P. da Silva, *"The Cubli: Modeling and Nonlinear Attitude Control Utilizing Quaternions,"* IEEE Access, vol. 9, 2021.
 
 ---
